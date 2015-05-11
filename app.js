@@ -14,17 +14,17 @@ h1[0].style.paddingTop = "10px";
 h1[0].style.fontFamily = "arial";
 
 var square = document.getElementsByClassName("square");
-square[0].style.height = "200px";
+square[0].style.height = "400px";
 square[0].style.width = "33.3%";
 square[0].style.backgroundColor = "#64c7c7";
 square[0].style.float = "left";
 
-square[1].style.height = "200px";
+square[1].style.height = "400px";
 square[1].style.width = "33.3%";
 square[1].style.backgroundColor = "#3a3e82";
 square[1].style.float = "left";
 
-square[2].style.height = "200px";
+square[2].style.height = "400px";
 square[2].style.width = "33.3%";
 square[2].style.backgroundColor = "#1d1a49";
 square[2].style.float = "left";
